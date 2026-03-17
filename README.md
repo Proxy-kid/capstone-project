@@ -1,4 +1,4 @@
-# Bellabeat Smart Device Usage Analysis. akan
+# Bellabeat Smart Device Usage Analysis. 
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
@@ -39,7 +39,7 @@
 **Dataset**: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)  
 **License**: CC0: Public Domain  
 **Period**: April 12, 2016 - May 12, 2016 (31 days)  
-**Sample Size**: 33 unique users  
+**Sample Size**: 7 unique users  
 
 **Tables Analyzed**:
 - `dailyActivity_merged` - Daily activity metrics (steps, distance, calories, active minutes)
@@ -47,7 +47,7 @@
 - `weightLogInfo_merged` - Manual weight logging records
 
 **Data Limitations**:
-- Small sample size (33 users)
+- Small sample size (7 users)
 - No demographic information (gender, age, location)
 - Data from 2016 may not reflect current user behavior
 - FitBit users may not represent Bellabeat's target audience
@@ -74,8 +74,8 @@
    - Statistical analysis
 
 2. **Tableau Dashboard** ([View on Tableau Public](#)) ← *Add your link here*
-   - 5 interactive dashboards
-   - 18+ visualizations
+   - 2 interactive dashboards
+   - 10+ visualizations
    - Key insights and trends
 
 3. **Executive Summary** ([`bellabeat_executive_summary.docx`](bellabeat_executive_summary.docx))
@@ -92,9 +92,9 @@ Users were classified into three behavioral segments based on daily steps:
 
 | Segment | Criteria | Users | Avg Steps | Avg Sedentary Minutes |
 |---------|----------|-------|-----------|----------------------|
-| **Fitness Enthusiasts** | ≥10,000 steps/day | 7 (21%) | 12,406 | 700 |
-| **Casual Users** | 5,000-9,999 steps/day | 18 (55%) | 7,283 | 818 |
-| **Beginners** | <5,000 steps/day | 8 (24%) | 3,474 | 1,019 |
+| **Fitness Enthusiasts** | ≥10,000 steps/day | 2  | 11,964 | 971 |
+| **Casual Users** | 5,000-9,999 steps/day | 3 | 6,198 | 1,036 |
+| **Beginners** | <5,000 steps/day | 2 | 2,740 | 1,187 |
 
 **Insight**: Beginners represent the largest growth opportunity with the highest sedentary time.
 
@@ -104,9 +104,9 @@ Users were classified into three behavioral segments based on daily steps:
 
 | Feature | Adoption Rate | Users |
 |---------|---------------|-------|
-| **Daily Activity Tracking** | 100% | 33/33 |
-| **Sleep Tracking** | 71% | 24/33 |
-| **Weight Logging** | 9% | 3/33 |
+| **Daily Activity Tracking** | 100% | 7/7 |
+| **Sleep Tracking** | 71% | 5/7 |
+| **Weight Logging** | 28% | 2/7 |
 
 **Insight**: Users strongly prefer passive tracking (automated) over manual logging features.
 
@@ -114,8 +114,8 @@ Users were classified into three behavioral segments based on daily steps:
 
 ### 3. Activity Patterns by Day of Week
 
-- **Saturday**: Highest activity (8,153 avg steps)
-- **Friday**: Lowest activity (7,448 avg steps) - 9% drop
+- **Saturday**: Highest activity (8,408 avg steps)
+- **Friday**: Lowest activity (5,993 avg steps) - 9% drop
 - **Weekend Effect**: 5% more active on weekends vs weekdays
 
 **Insight**: Friday activity dip represents an engagement opportunity.
@@ -126,9 +126,9 @@ Users were classified into three behavioral segments based on daily steps:
 
 | Segment | Avg Hours in Bed | Avg Hours Asleep | Sleep Efficiency |
 |---------|-----------------|------------------|------------------|
-| **Beginners** | 10.0 | 7.2 | 72% |
-| **Casual Users** | 6.9 | 6.9 | 100% |
-| **Fitness Enthusiasts** | 6.4 | 6.4 | 100% |
+| **Beginners** | 10.6 | 8.4 | 80% |
+| **Casual Users** | 8.6 | 8.6 | 93% |
+| **Fitness Enthusiasts** | 6.4 | 6.0 | 94% |
 
 **Insight**: Fitness Enthusiasts may be sleep-deprived (6.4 hrs < recommended 7-9 hrs).
 
@@ -152,7 +152,7 @@ Users were classified into three behavioral segments based on daily steps:
 
 | # | Recommendation | Target Segment | Rationale |
 |---|----------------|----------------|-----------|
-| 1 | **Movement reminder notifications** | Beginners | Address high sedentary time (1,019 min/day) and low adherence |
+| 1 | **Movement reminder notifications** | Beginners | Address high sedentary time (1,187 min/day) and low adherence |
 | 2 | **Friday motivation campaigns** | All Users | Counter 9% activity drop; push notifications, challenges |
 | 3 | **Weekend fitness challenges** | All Users | Leverage natural 5% weekend activity increase |
 | 4 | **Streak & reward systems** | Beginners & Casual | Gamification to increase device adherence and progression |
