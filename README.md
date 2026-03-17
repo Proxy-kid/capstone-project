@@ -1,4 +1,4 @@
-# Bellabeat Smart Device Usage Analysis
+# Bellabeat Smart Device Usage Analysis. akan
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
