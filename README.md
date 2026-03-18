@@ -207,6 +207,7 @@ bellabeat-analysis/
 │   ├── dashboard_overview.png
 │   ├── dashboard_activity.png
 
+```
 ---
 
 ## 🎓 Skills Demonstrated
