@@ -78,7 +78,7 @@
    - 8+ visualizations
    - Key insights and trends
 
-3. **Executive Summary** ([`bellabeat_executive_summary (1).docx`](bellabeat_executive_summary.docx))
+3. **Executive Summary** ([`bellabeat_executive_summary (1).docx`](https://github.com/Proxy-kid/capstone-project/blob/c877c43babfaa1bd123e279f4474eb505766cceb/bellabeat_executive_summary%20(1).docx))
    - 6-page professional report
    - Key findings and recommendations
    - Data quality documentation
