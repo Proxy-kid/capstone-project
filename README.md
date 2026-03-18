@@ -201,18 +201,61 @@ Users were classified into three behavioral segments based on daily steps:
 bellabeat-analysis/
 │
 ├── bellabeat_analysis.sql           # Main SQL analysis script
-├── tableau_queries.sql              # Queries for Tableau dashboard
-├── tableau_guide.md                 # Dashboard building instructions
 ├── bellabeat_executive_summary.docx # Professional report
 ├── README.md                        # This file
 ├── images/                          # Screenshots of dashboards
 │   ├── dashboard_overview.png
 │   ├── dashboard_activity.png
-│   ├── dashboard_sleep.png
-│   ├── dashboard_engagement.png
-│   └── dashboard_recommendations.png
+
+---
+
+## 🎓 Skills Demonstrated
+
+- **SQL**: Data cleaning, CTEs, window functions, aggregations, joins, subqueries
+- **Data Analysis**: User segmentation, trend analysis, statistical analysis
+- **Data Visualization**: Dashboard design, storytelling with data
+- **Business Intelligence**: Translating data insights into actionable recommendations
+- **Documentation**: Technical writing, executive reporting
+
+---
+
+## 📈 Next Steps
+
+To further improve this analysis:
+
+1. **Larger Dataset**: Analyze 500+ users for statistical significance
+2. **Demographic Data**: Filter by gender, age, location to match Bellabeat's target market
+3. **Recent Data**: Use 2023-2024 data to reflect current user behavior
+4. **User Surveys**: Supplement quantitative data with qualitative feedback
 
 
 
+---
 
+## 👤 Contact
+
+**Bassey Akan**  
+Data Analyst | 
+
+📧 basseyikan@gmail.com
+
+
+---
+
+## 📜 License
+
+
+**Data Source**: FitBit Fitness Tracker Data is used under CC0: Public Domain license.
+
+---
+
+## 🙏 Acknowledgments
+
+- **Google Data Analytics Professional Certificate** for the capstone framework
+- **Kaggle** for hosting the FitBit dataset
+- **Bellabeat** for the inspiring case study
+
+---
+
+*Last Updated: March 2026*
 
