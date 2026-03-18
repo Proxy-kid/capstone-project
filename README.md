@@ -73,9 +73,9 @@
    - User segmentation
    - Statistical analysis
 
-2. **Tableau Dashboard** ([<div class='tableauPlaceholder' id='viz1773759111346' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;Activitypatterns&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Activitypatterns&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;Activitypatterns&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>) ← *Add your link here*
+2. **Tableau Dashboard**
    - 2 interactive dashboards
-   - 10+ visualizations
+   - 8+ visualizations
    - Key insights and trends
 
 3. **Executive Summary** ([`bellabeat_executive_summary.docx`](bellabeat_executive_summary.docx))
@@ -146,8 +146,7 @@ Users were classified into three behavioral segments based on daily steps:
 
 ---
 
-![image alt](https://github.com/Proxy-kid/capstone-project/blob/95629a0084e216f72bb1470ef6822395f6863d40/Dashboard%202.png)
-
+([<div class='tableauPlaceholder' id='viz1773759111346' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;Activitypatterns&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Activitypatterns&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ac&#47;Activitypatterns&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>)
 ---
 
 ![image alt](https://github.com/Proxy-kid/capstone-project/blob/59e64cb69181ead5f95c55346a5d0a1a554a0f25/Dashboard%201%20Executive%20Summary.png)
