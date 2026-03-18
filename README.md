@@ -78,7 +78,7 @@
    - 8+ visualizations
    - Key insights and trends
 
-3. **Executive Summary** ([`bellabeat_executive_summary (1).docx`](bellabeat_executive_summary (1).docx))
+3. **Executive Summary** ([`bellabeat_executive_summary (1).docx`](bellabeat_executive_summary.docx))
    - 6-page professional report
    - Key findings and recommendations
    - Data quality documentation
