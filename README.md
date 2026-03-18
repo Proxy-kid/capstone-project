@@ -144,6 +144,8 @@ Users were classified into three behavioral segments based on daily steps:
 
 **Insight**: Beginners show 31% lower device adherence - retention risk.
 
+![image alt](https://github.com/Proxy-kid/capstone-project/blob/95629a0084e216f72bb1470ef6822395f6863d40/Dashboard%202.png)
+
 ---
 
 ## 💡 Recommendations
@@ -172,5 +174,5 @@ Users were classified into three behavioral segments based on daily steps:
 | 8 | **Inactivity streak alerts** | Beginners | Re-engage users after 2-3 days of zero activity |
 
 
-![image alt](https://github.com/Proxy-kid/capstone-project/blob/95629a0084e216f72bb1470ef6822395f6863d40/Dashboard%202.png)
+
 
