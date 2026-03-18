@@ -179,6 +179,39 @@ Users were classified into three behavioral segments based on daily steps:
 |---|----------------|----------------|-----------|
 | 8 | **Inactivity streak alerts** | Beginners | Re-engage users after 2-3 days of zero activity |
 
+---
+## 📂 How to Use This Repository
+
+
+### Run the SQL Analysis
+1. Import the FitBit dataset into MySQL
+2. Open `final_project.sql` in MySQL Workbench
+3. Run the script section by section
+4. Review findings documented in comments
+
+### View the Executive Summary
+- Open `bellabeat_executive_summary (1).docx` in Microsoft Word or Google Docs
+  
+---
+
+## 📁 Repository Structure
+
+```
+bellabeat-analysis/
+│
+├── bellabeat_analysis.sql           # Main SQL analysis script
+├── tableau_queries.sql              # Queries for Tableau dashboard
+├── tableau_guide.md                 # Dashboard building instructions
+├── bellabeat_executive_summary.docx # Professional report
+├── README.md                        # This file
+├── images/                          # Screenshots of dashboards
+│   ├── dashboard_overview.png
+│   ├── dashboard_activity.png
+│   ├── dashboard_sleep.png
+│   ├── dashboard_engagement.png
+│   └── dashboard_recommendations.png
+
+
 
 
 
