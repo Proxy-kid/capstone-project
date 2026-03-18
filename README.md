@@ -170,3 +170,7 @@ Users were classified into three behavioral segments based on daily steps:
 | # | Recommendation | Target Segment | Rationale |
 |---|----------------|----------------|-----------|
 | 8 | **Inactivity streak alerts** | Beginners | Re-engage users after 2-3 days of zero activity |
+
+
+
+
