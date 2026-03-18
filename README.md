@@ -67,7 +67,7 @@
 
 ## 📦 Project Deliverables
 
-1. **SQL Analysis** ([`bellabeat_analysis.sql`](bellabeat_analysis.sql))
+1. **SQL Analysis** ([`bellabeat_analysis.sql`](https://github.com/Proxy-kid/capstone-project/blob/251a1a433adc206657f0a9a936c9663aa86893a9/bellabeat_analysis.sql))
    - Data cleaning and validation
    - Exploratory data analysis
    - User segmentation
